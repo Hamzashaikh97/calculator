@@ -1,0 +1,38 @@
+.main{
+    
+    border: 2px solid gray;
+    width: 300px; 
+    height: 400px;
+    margin:0 auto;
+    background-color:#008B8B	;
+}
+
+.result{
+    width: 290PX;
+    height: 60PX;
+    background-color:#F0F8FF;
+    color: grey;
+    
+}
+.btn-clear{
+    width: 100%;
+    height: 50px;
+    background-color:#008B8B
+  
+    color: indianred;
+    margin-top: 20px;
+}
+.btn{
+    width: 20%;
+    height: 50px;
+    background-color:#008B8B
+    color: indianred;
+    margin: 5px;
+}
+.btn-l{
+    width: 45%;
+    height: 50px;
+    background-color:#008B8B
+    color: indianred;
+    margin: 5px;
+}
